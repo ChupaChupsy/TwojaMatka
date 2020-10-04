@@ -1,1 +1,4 @@
-
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "T.O.P.S";
+    Text = "TOPS is currently down! (not for long)";
+})
